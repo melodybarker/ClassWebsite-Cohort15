@@ -1,0 +1,15 @@
+{
+    "cohort": [{
+        "id": 1,
+        "fname": "Chaz",
+        "lname": "Vanderbilt",
+        "reelthemin": "quote",
+        "copy": "<p><b>Header</b></p><p>Paragraph Quick bio.</p> <p>Paragraph Quick bio.</p><p> Some of the techs in which I have become advanced: JavaScript, C#, SQL, Angular and Firebase.</p>",
+        "github": "INSERTURL",
+        "linkedin": "INSERTURL",
+        "portfolio": "INSERTURL",
+        "email": "EMAIL",
+        "proimg": "imasge.jpg",
+        "funimg": "image.jpg"
+    } ]
+}

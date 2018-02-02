@@ -1,0 +1,84 @@
+{
+  "techs": [
+    {
+      "name": "Javascript",
+      "image": "images/techs/javascript.png"
+    },
+    {
+      "name": "Angular.js",
+      "image": "images/techs/angularjs.png"
+    },
+    {
+      "name": "jQuery",
+      "image": "images/techs/jquery.png"
+    },
+    {
+      "name": "Git",
+      "image": "images/techs/git.png"
+    },
+    {
+      "name": "Github",
+      "image": "images/techs/github.png"
+    },
+    {
+      "name": "Grunt",
+      "image": "images/techs/grunt.png"
+    },
+    {
+      "name": "HTML5",
+      "image": "images/techs/html5.png"
+    },
+    {
+      "name": "CSS3",
+      "image": "images/techs/css3.png"
+    },
+    {
+      "name": "Sass",
+      "image": "images/techs/sass.png"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "images/techs/bootstrap.png"
+    },
+    {
+      "name": "Browserify",
+      "image": "images/techs/browserify.png"
+    },
+    {
+      "name": "Handlebars",
+      "image": "images/techs/handlebars.png"
+    },
+    {
+      "name": "Firebase",
+      "image": "images/techs/firebase.png"
+    },
+    {
+      "name": "Materialize",
+      "image": "images/techs/materialize.png"
+    },
+    {
+      "name": "NPM",
+      "image": "images/techs/npm.png"
+    },
+    {
+      "name": "Ruby",
+      "image": "images/techs/ruby.png"
+    },
+    {
+      "name": "Rails",
+      "image": "images/techs/rails.jpg"
+    },
+    {
+      "name": "SQLite3",
+      "image": "images/techs/sqlite.png"
+    },
+    {
+      "name": "MySQL",
+      "image": "images/techs/mysql.png"
+    },
+    {
+      "name": "Visual Studio Code",
+      "image": "images/techs/vsc.jpg"
+    }
+  ]
+}
