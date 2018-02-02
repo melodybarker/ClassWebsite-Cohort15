@@ -10,8 +10,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 2,
@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/kimberly-j-bird/",
             "portfolio": "www.kimberlybird.me",
             "email": "kimberly.j.bird@gmail.com",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 3,
@@ -36,8 +36,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 4,
@@ -49,8 +49,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 6,
@@ -75,8 +75,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 8,
@@ -101,8 +101,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 9,
@@ -114,8 +114,8 @@
             "linkedIn": "linkedin.com/in/lissagoforth-softwaredeveloper/",
             "portfolio": "INSERTURL",
             "email": "lissagoforthsoftwaredev@gmail.com",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 10,
@@ -127,8 +127,8 @@
             "linkedIn": "https://www.linkedin.com/in/kevin-haggerty-ab310b56/",
             "portfolio": "www.kevinhaggertydev.com",
             "email": "kghaggerty@gmail.com",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 11,
@@ -140,8 +140,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 12,
@@ -153,8 +153,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 13,
@@ -166,8 +166,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 14,
@@ -179,8 +179,8 @@
             "linkedIn": "www.linkedin.com/in/rmbw74",
             "portfolio": "www.raymondjmedrano.com",
             "email": "rmbw74@gmail.com",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 15,
@@ -192,8 +192,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 16,
@@ -205,8 +205,8 @@
             "linkedIn": "https://www.linkedin.com/in/krnorris65",
             "portfolio": "INSERTURL",
             "email": "krnorris65@gmail.com",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 17,
@@ -218,8 +218,8 @@
             "linkedIn": "https://www.linkedin.com/in/jesse-page/",
             "portfolio": "www.thepagepage.net",
             "email": "jesse.page@me.com",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 18,
@@ -231,8 +231,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 19,
@@ -244,8 +244,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 20,
@@ -257,8 +257,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 21,
@@ -270,8 +270,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 22,
@@ -283,8 +283,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 23,
@@ -296,8 +296,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 24,
@@ -309,8 +309,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 25,
@@ -322,8 +322,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 26,
@@ -335,8 +335,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         },
         {
             "id": 27,
@@ -348,8 +348,8 @@
             "linkedIn": "INSERTURL",
             "portfolio": "INSERTURL",
             "email": "EMAIL",
-            "proImg": "image.jpg",
-            "funImg": "image.jpg"
+            "proImg": "images/proimageHolder.png",
+            "funImg": "images/funimageHolder.png"
         }
     ]
 }
