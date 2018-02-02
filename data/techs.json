@@ -45,10 +45,6 @@
       "image": "images/techs/browserify.png"
     },
     {
-      "name": "Handlebars",
-      "image": "images/techs/handlebars.png"
-    },
-    {
       "name": "Firebase",
       "image": "images/techs/firebase.png"
     },
@@ -59,14 +55,6 @@
     {
       "name": "NPM",
       "image": "images/techs/npm.png"
-    },
-    {
-      "name": "Ruby",
-      "image": "images/techs/ruby.png"
-    },
-    {
-      "name": "Rails",
-      "image": "images/techs/rails.jpg"
     },
     {
       "name": "SQLite3",
