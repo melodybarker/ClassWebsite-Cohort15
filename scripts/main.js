@@ -10,12 +10,12 @@ function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
     document.getElementById("cohort").innerHTML += `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="${item.proimg}" alt="${item.fname} ${item.lname}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
+          <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
-            <h4 class="card-title title-font">${item.fname} ${item.lname}</h4>
-            <p class="card-text">${item.reelthemin}</p>
+            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>
+            <p class="card-text">${item.reelThemIn}</p>
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-           Meet ${item.fname}!
+           Meet ${item.firstName}!
           </button></center>
           </div>
         </div>
@@ -23,20 +23,20 @@ function cohortMembers(list) {
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
-           <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.fname} ${item.lname}</h5>
+           <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="${item.funimg}" /></center><br>
-            ${item.copy}
+            <center><img src="${item.funImg}" /></center><br>
+            ${item.bio}
             </div>
             <div class="modal-footer">
-            <h4 class="title-font">Contact ${item.fname}</h4>
+            <h4 class="title-font">Contact ${item.firstName}</h4>
               ${createLink(item.portfolio, 'portfolio')}
               ${createLink(item.github, 'github')}
-              ${createLink(item.linkedin, 'linkedin')}
+              ${createLink(item.linkedIn, 'linkedin')}
               ${createMailto(item.email, 'email')}
               <p><button type="button" data-dismiss="modal" class="btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
               Back
