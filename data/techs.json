@@ -66,7 +66,15 @@
     },
     {
       "name": "Visual Studio Code",
-      "image": "images/techs/vsc.jpg"
+      "image": "images/techs/vsc.png"
+    },
+    {
+      "name": "C#",
+      "image": "images/techs/csharp.png"
+    },
+    {
+      "name": ".NET",
+      "image": "images/techs/net.png"
     }
   ]
 }
