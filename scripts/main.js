@@ -12,10 +12,14 @@ function cohortMembers(list) {
     let studentInfo = `<div class="col-md-3 cohortMems">
           <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
-            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>
-            <p class="card-text">${item.reelThemIn}</p>
+            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
+    //if student didn't provide a reelthemin quote then nothing is displayed
+    if (item.reelThemIn != null) {
+      studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
+    }
+    studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-           More About ${item.firstName}!
+           Learn More!
           </button></center>
           </div>
         </div>
@@ -33,7 +37,7 @@ function cohortMembers(list) {
             ${item.bio}
             </div>
             <div class="modal-footer">`
-            
+
     //if the student has no contact info then don't display the "Contact {Name}"
     if (item.portfolio != null || item.github != null || item.linkedIn != null || item.email != null) {
 
@@ -41,26 +45,26 @@ function cohortMembers(list) {
     }
     //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
-      
+
       studentInfo += `<a href=${item.portfolio}>
       <i class="fas fa-globe fa-3x" style="color:#39008f"></i>
       </a>`
     }
-    //if student doesn't have a portfolio site then don't display the icon
+    //if student doesn't have a github site then don't display the icon
     if (item.github != null) {
-      
+
       studentInfo += `<a href=${item.github}>
       <i class="fab fa-github fa-3x" style="color:#39008f"></i>
       </a>`
     }
-    //if student doesn't have a portfolio site then don't display the icon
+    //if student doesn't have a linkedin site then don't display the icon
     if (item.linkedIn != null) {
-      
+
       studentInfo += `<a href=${item.linkedIn}>
       <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
       </a>`
     }
-    //if student doesn't have a portfolio site then don't display the icon
+    //if student doesn't have an email then don't display the icon
     if (item.email != null) {
 
       studentInfo += `<a href=mailto:${item.email}>
@@ -76,7 +80,7 @@ function cohortMembers(list) {
           </div >
         </div >
       </div > `;
-      document.getElementById("cohort").innerHTML += studentInfo;
+    document.getElementById("cohort").innerHTML += studentInfo;
 
   });
 };
