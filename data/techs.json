@@ -65,6 +65,10 @@
       "image": "images/techs/mysql.png"
     },
     {
+      "name": "Visual Studio",
+      "image": "images/techs/visualstudio.png"
+    },
+    {
       "name": "Visual Studio Code",
       "image": "images/techs/vsc.png"
     },

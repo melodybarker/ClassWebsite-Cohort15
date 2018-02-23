@@ -6,3 +6,16 @@
 .logo{
     height: 50px;
 }
+
+#cohort22{
+    display: inline-block;
+    color: #39008f;
+    vertical-align: middle;
+}
+
+#jumbheader{
+    box-shadow: 5px 5px 2px lightgray;
+    background-color: #39008f!important;
+    color: lightgray;
+    text-align: center;
+}
