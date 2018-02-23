@@ -1,7 +1,7 @@
 
 $.ajax({
-    url: "data/cohort.json"
-  }).done(cohortMembers)
+  url: "data/cohort.json"
+}).done(cohortMembers)
   .fail(function (error) {
     console.log("error", error);
   });
@@ -9,7 +9,7 @@ $.ajax({
 function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
-    document.getElementById("cohort").innerHTML += `<div class="col-md-3 cohortMems">
+    let studentInfo = `<div class="col-md-3 cohortMems">
           <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>
@@ -33,44 +33,60 @@ function cohortMembers(list) {
             ${item.bio}
             </div>
             <div class="modal-footer">
-            <h4 class="title-font">Contact ${item.firstName}</h4>
-              <a href=${item.portfolio}>
+            <h4 class="title-font">Contact ${item.firstName}</h4>`
+
+    if (item.portfolio != null) {
+
+      studentInfo += `<a href=${item.portfolio}>
                 <i class="fas fa-globe fa-3x" style="color:#39008f"></i>
-              </a>
-              <a href=${item.github}>
-                <i class="fab fa-github fa-3x" style="color:#39008f"></i>
-              </a>
-              <a href=${item.linkedIn}>
-                <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
-              </a>
-              <a href=mailto:${item.email}>
-                <i class="fas fa-envelope fa-3x" style="color:#39008f"></i>
-              </a>
-              <p><button type="button" data-dismiss="modal" class="btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
-              Back
+              </a>`
+    }
+    if (item.github != null) {
+
+      studentInfo += `<a href=${item.github}>
+              <i class="fab fa-github fa-3x" style="color:#39008f"></i>
+            </a>`
+    }
+    if (item.linkedIn != null) {
+
+      studentInfo += `<a href=${item.linkedIn}>
+              <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
+            </a>`
+    }
+    if (item.email != null) {
+
+      studentInfo += `<a href=mailto:${item.email}>
+              <i class="fas fa-envelope fa-3x" style="color:#39008f"></i>
+            </a>`
+    }
+
+    studentInfo += `
+    <p><button type="button" data-dismiss="modal" class="btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
+      Back
               </button></p>
-            </div>
-          </div>
-        </div>
-      </div>`;
+            </div >
+          </div >
+        </div >
+      </div > `;
+      document.getElementById("cohort").innerHTML += studentInfo;
 
   });
 };
 
 //checks to see if url string is empty, if not, creates specified image
 function createLink(urlString, img, mail) {
-  let link = urlString !== '' ? `<a href="${urlString}" target= "_blank"><img src="/images/${img}.png"></a>` : '<!-- -->';
+  let link = urlString !== '' ? `< a href = "${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->';
   return link
 };
 
 function createMailto(urlString, img) {
-  let link = urlString !== '' ? `<a href="mailto:${urlString}" target="_blank"><img src="/images/${img}.png"></a>` : '<!-- -->'
+  let link = urlString !== '' ? `< a href = "mailto:${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->'
   return link
 }
 
 $.ajax({
-    url: "data/techs.json"
-  }).done(techs)
+  url: "data/techs.json"
+}).done(techs)
   .fail(function (error) {
     console.log("error", error);
   });
@@ -79,9 +95,9 @@ function techs(list) {
   let data = list.techs;
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
-      `<div class="col-sm-3 technologies">
+      `< div class="col-sm-3 technologies" >
       <center><img class="techs" src="${item.image}"><br>
-      ${item.name}</center>
+        ${item.name}</center>
       </div>`;
 
   });
