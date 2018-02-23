@@ -125,16 +125,19 @@ main {
 .modal-body{
     display: block;
   }
-
-.modal-footer{
-    display: block;
-    text-align: center;
+  .studentContact{
+      text-align: center;
   }
+
 
   .modal-body img{
     width: 50%;
     height: 50%;
     padding-bottom: 10px;
+  }
+
+  .modal-body a{
+      margin-right: 10px;
   }
 
 .techs{

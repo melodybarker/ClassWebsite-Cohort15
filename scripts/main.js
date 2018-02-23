@@ -36,16 +36,10 @@ function cohortMembers(list) {
             </div>
             <div class="modal-body">
             <center><img src="${item.funImg}" /></center><br>
-            
-            ${item.bio}
-            </div>
-            <div class="modal-footer">`
 
-    //if the student has no contact info then don't display the "Contact {Name}"
-    if (item.portfolio != null || item.github != null || item.linkedIn != null || item.email != null) {
+            `
 
-      studentInfo += `<h4 class="title-font">Contact ${item.firstName}</h4>`
-    }
+    studentInfo += `<div class="studentContact">`
     //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
 
@@ -75,11 +69,16 @@ function cohortMembers(list) {
             </a>`
     }
 
+    studentInfo += `</div>`
+
     studentInfo += `
-    <p><button type="button" data-dismiss="modal" class="btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
+      
+    ${item.bio}
+    </div>
+    <center><p><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
       Back
-              </button></p>
-            </div >
+              </button></p></center>
+            
           </div >
         </div >
       </div > `;
@@ -87,7 +86,6 @@ function cohortMembers(list) {
 
   });
 };
-
 //checks to see if url string is empty, if not, creates specified image
 function createLink(urlString, img, mail) {
   let link = urlString !== '' ? `< a href = "${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->';
