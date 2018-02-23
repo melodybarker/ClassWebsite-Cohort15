@@ -82,9 +82,9 @@ function cohortMembers(list) {
       
     ${item.bio}
     </div>
-    <center><p><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
+    <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
       Back
-              </button></p></center>
+              </button></center>
             
           </div >
         </div >

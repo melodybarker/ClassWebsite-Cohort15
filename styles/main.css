@@ -130,7 +130,7 @@ main {
       text-align: center;
       display: flex;
       justify-content: space-evenly;
-      margin-bottom: .5em;
+      margin-bottom: .75rem;
   }
 
   .contactIcons{
@@ -145,6 +145,10 @@ main {
     width: 50%;
     height: 50%;
     padding-bottom: 10px;
+  }
+
+  .backButton{
+      margin-bottom: 1.5rem;
   }
 
 
