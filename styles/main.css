@@ -125,8 +125,19 @@ main {
 .modal-body{
     display: block;
   }
+
   .studentContact{
       text-align: center;
+      display: flex;
+      justify-content: space-evenly;
+      margin-bottom: .5em;
+  }
+
+  .contactIcons{
+      color: #39008f;
+  }
+  .contactIcons:hover{
+      transform: scale(1.2);
   }
 
 
@@ -136,9 +147,6 @@ main {
     padding-bottom: 10px;
   }
 
-  .modal-body a{
-      margin-right: 10px;
-  }
 
 .techs{
     width: 80px;
@@ -160,6 +168,23 @@ button{
     border-color: #39008f!important;
 }
 
+.btn-outline-primary:hover{
+    color: white!important;
+    background-color: #39008f!important;
+}
+
+/* adjusts size of contact icons depending on size of card */
+@media (min-width: 992px) and (max-width: 1200px){
+    .fa-3x{
+        font-size: 2.5em!important;
+      }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .fa-3x{
+        font-size: 2em!important;
+      }    
+}
 
 
 @media (max-width: 900px) {

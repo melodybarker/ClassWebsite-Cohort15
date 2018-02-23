@@ -9,6 +9,37 @@ $.ajax({
 function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
+    let studentContact = `<div class="studentContact">`
+    //if student doesn't have a portfolio site then don't display the icon
+    if (item.portfolio != null) {
+
+      studentContact += `<a href=${item.portfolio}>
+      <i class="fas fa-globe fa-3x contactIcons"></i>
+      </a>`
+    }
+    //if student doesn't have a github site then don't display the icon
+    if (item.github != null) {
+
+      studentContact += `<a href=${item.github}>
+      <i class="fab fa-github fa-3x contactIcons"></i>
+      </a>`
+    }
+    //if student doesn't have a linkedin site then don't display the icon
+    if (item.linkedIn != null) {
+
+      studentContact += `<a href=${item.linkedIn}>
+      <i class="fab fa-linkedin fa-3x contactIcons"></i>
+      </a>`
+    }
+    //if student doesn't have an email then don't display the icon
+    if (item.email != null) {
+
+      studentContact += `<a href=mailto:${item.email}>
+              <i class="fas fa-envelope fa-3x contactIcons"></i>
+            </a>`
+    }
+    studentContact += `</div>`
+
     let studentInfo = `<div class="col-md-3 cohortMems">
           <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
@@ -17,6 +48,7 @@ function cohortMembers(list) {
     if (item.reelThemIn != null) {
       studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
     }
+    studentInfo += studentContact
     studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Learn More!
@@ -39,37 +71,8 @@ function cohortMembers(list) {
 
             `
 
-    studentInfo += `<div class="studentContact">`
-    //if student doesn't have a portfolio site then don't display the icon
-    if (item.portfolio != null) {
+    studentInfo += studentContact
 
-      studentInfo += `<a href=${item.portfolio}>
-      <i class="fas fa-globe fa-3x" style="color:#39008f"></i>
-      </a>`
-    }
-    //if student doesn't have a github site then don't display the icon
-    if (item.github != null) {
-
-      studentInfo += `<a href=${item.github}>
-      <i class="fab fa-github fa-3x" style="color:#39008f"></i>
-      </a>`
-    }
-    //if student doesn't have a linkedin site then don't display the icon
-    if (item.linkedIn != null) {
-
-      studentInfo += `<a href=${item.linkedIn}>
-      <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
-      </a>`
-    }
-    //if student doesn't have an email then don't display the icon
-    if (item.email != null) {
-
-      studentInfo += `<a href=mailto:${item.email}>
-              <i class="fas fa-envelope fa-3x" style="color:#39008f"></i>
-            </a>`
-    }
-
-    studentInfo += `</div>`
 
     studentInfo += `
       
