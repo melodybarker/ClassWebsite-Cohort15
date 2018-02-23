@@ -22,7 +22,9 @@ function cohortMembers(list) {
            Learn More!
           </button></center>
           </div>
-        </div>
+        </div>`
+    //model info
+    studentInfo +=`
         <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
@@ -34,6 +36,7 @@ function cohortMembers(list) {
             </div>
             <div class="modal-body">
             <center><img src="${item.funImg}" /></center><br>
+            
             ${item.bio}
             </div>
             <div class="modal-footer">`
