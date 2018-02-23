@@ -1,0 +1,195 @@
+p {
+  font-family: 'Barlow', sans-serif;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    /* background: url("../assets/images/bg.jpg") fixed no-repeat; */
+    background-color: lightblue;
+}
+
+blockquote{
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #ddd;
+    padding: 2em;
+}
+
+.navbar{
+    background-color: rgb(55, 55, 56);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
+    background: white !important;
+}
+.navbar-brand{
+    display: flex;
+}
+.nav-spacing {
+  margin-right: 2em;
+}
+
+#cohort22{
+    display: inline-block;
+    color: #39008f;
+}
+
+#jumbheader{
+    box-shadow: 5px 5px 2px lightgray;
+    background-color: #39008f!important;
+}
+.header-text{
+    margin: 0 auto;
+    padding-top: 10px;
+    font-weight: bold;
+    height: 50px;
+    color: white;
+
+}
+
+.logo{
+    height: 50px;
+}
+
+
+.jumbotron.jumbotron-fluid{
+    background: none;
+   }
+.jumbotron.jumbotron-fluid img{
+    background: none;
+    width:100%;
+    margin-top: -80px;
+   }
+
+main {
+    margin-bottom: 20px;
+    margin-top: -30px;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+
+.row{
+    justify-content: center;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.col-md-3.cohortMems{
+    border: 1px solid lightgray;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px lightgray;
+    margin: 10px;
+    margin-bottom: 25px;
+    background: white;
+}
+
+.col-sm-3.technologies{
+    border: none;
+    border-radius: none;
+    box-shadow: none;
+}
+.technos, .words{
+    margin-top: -55px;
+    background: white;
+    padding:20px;
+    border-radius: 10px;
+}
+
+.words{
+    padding:50px;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+.card-img-top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+.col,
+[class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+.modal-body{
+    display: block;
+  }
+
+.modal-footer{
+    display: block;
+    text-align: center;
+  }
+
+  .modal-body img{
+    width: 50%;
+    height: 50%;
+    padding-bottom: 10px;
+  }
+
+.techs{
+    width: 80px;
+    margin: 20px;
+  }
+
+.navbar.navbar-light.bg-light.footer{
+    margin-top:10px;
+    font-size: 1em;
+    background: black!important;
+    color: white;
+
+}
+button{
+    cursor: pointer;
+}
+
+
+@media (max-width: 900px) {
+
+    /* body {
+        background: url("../assets/images/bg.jpg") repeat;
+    } */
+    .jumbotron.jumbotron-fluid img{
+        background: white;
+        margin-top:30px;
+       }
+       .jumbotron.jumbotron-fluid.sm-width{
+        width: 100%;
+    }
+       .header-text{
+        margin: 0 auto;
+        height: 30px;
+       }
+       .header-text h2{
+        font-size: 1.5em;
+        margin-top: -10px;
+       }
+       .modal-body{
+        display: block;
+      }
+      .modal-content {
+        width: 100%;
+    }
+       .modal-body img{
+        width: 100%;
+        padding-bottom: 10px;
+        padding-right: 10px;
+      }
+      main {
+        margin-bottom: 100px;
+        margin-top: -50px;
+        width: 100%
+      }
+      .navbar-brand img{
+        padding-right: none;
+      }
+
+}

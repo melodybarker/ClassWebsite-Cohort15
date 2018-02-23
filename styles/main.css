@@ -1,7 +1,4 @@
-.techs{
-    width: 80px;
-    margin: 20px;
-}
+
 
 .logo{
     height: 50px;
@@ -18,4 +15,8 @@
     background-color: #39008f!important;
     color: lightgray;
     text-align: center;
+}
+
+#navbarNav{
+    text-align: left;
 }
