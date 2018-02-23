@@ -34,13 +34,21 @@ function cohortMembers(list) {
             </div>
             <div class="modal-footer">
             <h4 class="title-font">Contact ${item.firstName}</h4>
-              ${createLink(item.portfolio, 'portfolio')}
-              ${createLink(item.github, 'github')}
-              ${createLink(item.linkedIn, 'linkedin')}
-              ${createMailto(item.email, 'email')}
+              <a href=${item.portfolio}>
+                <i class="fas fa-globe fa-3x" style="color:#39008f"></i>
+              </a>
+              <a href=${item.github}>
+                <i class="fab fa-github fa-3x" style="color:#39008f"></i>
+              </a>
+              <a href=${item.linkedIn}>
+                <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
+              </a>
+              <a href=mailto:${item.email}>
+                <i class="fas fa-envelope fa-3x" style="color:#39008f"></i>
+              </a>
               <p><button type="button" data-dismiss="modal" class="btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
               Back
-            </button></p>
+              </button></p>
             </div>
           </div>
         </div>
