@@ -49,13 +49,17 @@ function cohortMembers(list) {
       studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
     }
     studentInfo += studentContact
+
+    //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
+    if(item.bio != null){
+
     studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Learn More!
           </button></center>
           </div>
         </div>`
-    //model info
+    //modal info
     studentInfo +=`
         <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
         <div class="modal-dialog" role="document">
@@ -85,6 +89,12 @@ function cohortMembers(list) {
           </div >
         </div >
       </div > `;
+    } else {
+      studentInfo += `
+      </div>
+        </div>
+        `
+    }
     document.getElementById("cohort").innerHTML += studentInfo;
 
   });
