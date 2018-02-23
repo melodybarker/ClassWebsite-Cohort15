@@ -32,27 +32,35 @@ function cohortMembers(list) {
             <center><img src="${item.funImg}" /></center><br>
             ${item.bio}
             </div>
-            <div class="modal-footer">
-            <h4 class="title-font">Contact ${item.firstName}</h4>`
+            <div class="modal-footer">`
+            
+    //if the student has no contact info then don't display the "Contact {Name}"
+    if (item.portfolio != null || item.github != null || item.linkedIn != null || item.email != null) {
 
+      studentInfo += `<h4 class="title-font">Contact ${item.firstName}</h4>`
+    }
+    //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
-
+      
       studentInfo += `<a href=${item.portfolio}>
-                <i class="fas fa-globe fa-3x" style="color:#39008f"></i>
-              </a>`
+      <i class="fas fa-globe fa-3x" style="color:#39008f"></i>
+      </a>`
     }
+    //if student doesn't have a portfolio site then don't display the icon
     if (item.github != null) {
-
+      
       studentInfo += `<a href=${item.github}>
-              <i class="fab fa-github fa-3x" style="color:#39008f"></i>
-            </a>`
+      <i class="fab fa-github fa-3x" style="color:#39008f"></i>
+      </a>`
     }
+    //if student doesn't have a portfolio site then don't display the icon
     if (item.linkedIn != null) {
-
+      
       studentInfo += `<a href=${item.linkedIn}>
-              <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
-            </a>`
+      <i class="fab fa-linkedin fa-3x" style="color:#39008f"></i>
+      </a>`
     }
+    //if student doesn't have a portfolio site then don't display the icon
     if (item.email != null) {
 
       studentInfo += `<a href=mailto:${item.email}>
@@ -95,9 +103,9 @@ function techs(list) {
   let data = list.techs;
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
-      `< div class="col-sm-3 technologies" >
-      <center><img class="techs" src="${item.image}"><br>
-        ${item.name}</center>
+      `<div class="col-sm-3 technologies">
+      <center><img class="techs" src=${item.image}><br>
+      ${item.name}</center>
       </div>`;
 
   });
