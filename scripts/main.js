@@ -13,21 +13,21 @@ function cohortMembers(list) {
     //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
 
-      studentContact += `<a href=${item.portfolio}>
+      studentContact += `<a href=${item.portfolio} target="_blank">
       <i class="fas fa-globe fa-3x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a github site then don't display the icon
     if (item.github != null) {
 
-      studentContact += `<a href=${item.github}>
+      studentContact += `<a href=${item.github} target="_blank">
       <i class="fab fa-github fa-3x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a linkedin site then don't display the icon
     if (item.linkedIn != null) {
 
-      studentContact += `<a href=${item.linkedIn}>
+      studentContact += `<a href=${item.linkedIn} target="_blank">
       <i class="fab fa-linkedin fa-3x contactIcons"></i>
       </a>`
     }

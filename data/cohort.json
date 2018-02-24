@@ -21,7 +21,7 @@
             "bio": "<p>After working several years in the international education industry, I had the itch to learn something new and add to my softer skills. While working at Bridge Education Group in Denver, I had the opportunity to work with an amazing graphic design and web development team. I was amazed at what they were able to create (both in beautiful design and impressive functionality). If I asked them to move a button, they could! It was magic and I wanted to learn more about what they did each day.</p><p>To try my hand at coding, I attended Nashville Software School's 3 week Jumpstart evening course - it was this course that helped me realize that not only could I learn software development, but I enjoyed it, as well! I am currently attending Nashville Software School's 6 month day program to learn both client side and server side development. I graduate at the end of March and am excited to see where this new career path takes me as I continually learn more about software development.</p>",
             "github": "https://github.com/kimberly-bird",
             "linkedIn": "https://www.linkedin.com/in/kimberly-j-bird/",
-            "portfolio": "www.kimberlybird.me",
+            "portfolio": "http://www.kimberlybird.me",
             "email": "kimberly.j.bird@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -86,7 +86,7 @@
             "bio": "<p>For the better part of a decade, I’ve worked with some of the best people in Nashville to identify, analyze, plan, and implement solutions to public safety issues. Now, as a developer, I get to continue those steps in a broader scope of solution needs. I love to learn and pass on learning, and I consider my workday satisfying when I’ve contributed value toward solutions and to my teammates’ quality of work-life.</p>",
             "github": "https://github.com/tynesellis",
             "linkedIn": "https://www.linkedin.com/in/paul-ellis-110a44149/",
-            "portfolio": "www.developerellis.com",
+            "portfolio": "http://www.developerellis.com",
             "email": "tynesellis@icloud.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -111,7 +111,7 @@
             "reelThemIn": null,
             "bio": null,
             "github": "https://github.com/lissagoforth",
-            "linkedIn": "linkedin.com/in/lissagoforth-softwaredeveloper/",
+            "linkedIn": "https://www.linkedin.com/in/lissagoforth-softwaredeveloper/",
             "portfolio": null,
             "email": "lissagoforthsoftwaredev@gmail.com",
             "proImg": "images/proimageHolder.png",
@@ -125,7 +125,7 @@
             "bio": null,
             "github": "www.github.com/kghaggerty",
             "linkedIn": "https://www.linkedin.com/in/kevin-haggerty-ab310b56/",
-            "portfolio": "www.kevinhaggertydev.com",
+            "portfolio": "http://www.kevinhaggertydev.com",
             "email": "kghaggerty@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -164,7 +164,7 @@
             "bio": "<p>After spending a little over 3 incredible years advising hospitals on the implementation of clinical development software, I decided it was time to aim my focus on the development side of the industry in hopes to gain a clearer perspective on the business as a whole.  Developing relationships with customers and seeing them learn and use the product to the benefit of the entire organization helped me understand what tiype of positive impact software can have on people.  At the end of the day, that's why I'm learning to develop software, to create an even deeper connection with users.</p>",
             "github": "www.github.com/mmcpher2",
             "linkedIn": "https://www.linkedin.com/in/ryan-mcpherson-6b636549/",
-            "portfolio": "www.ryanmcpherson.net",
+            "portfolio": "http://www.ryanmcpherson.net",
             "email": "mmcpher2@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -175,9 +175,9 @@
             "lastName": "Medrano",
             "reelThemIn": "Greetings Program! ",
             "bio": "<p>I got my first taste of software developement during my previous carrer in the Automotive Manufacturing industry. Process development and improvement lead me down the path of leveraging many \"No Code\" solutions such as Microsoft Sharepoint and Infopath to automate buisiness processes. As powerful as those tools were, I constantly found myself asking our in-house development team for help in accomplishing things that were beyond the limits of those tools. Frustrated with slow response and needing to get things done I started researching how to implement simple things in HTML and CSS, but always wanted to learn how to do more.</p><p>When my husbands job relocated us to Nashville, I decided it was the perfect opportunity to try and learn how to code for real. Finding a place like NSS was a dream come true for me. When I'm not coding I generally spend my time split between my remaining passions. Reading / Watching Sci-Fi and Fantasy novels and movies. Dreaming about owning / driving unique and or exotic vehicles, or spending quality time with my husband and dog. </p>",
-            "github": "www.github.com/rmbw74",
-            "linkedIn": "www.linkedin.com/in/rmbw74",
-            "portfolio": "www.raymondjmedrano.com",
+            "github": "https://www.github.com/rmbw74",
+            "linkedIn": "https://www.linkedin.com/in/rmbw74",
+            "portfolio": "http://www.raymondjmedrano.com",
             "email": "rmbw74@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -188,8 +188,8 @@
             "lastName": "Miller",
             "reelThemIn": null,
             "bio": null,
-            "github": "www.github.com/camillery",
-            "linkedIn": "www.linkedin.com/in/camilleryr"
+            "github": "https://www.github.com/camillery",
+            "linkedIn": "https://www.linkedin.com/in/camilleryr"
             ,
             "portfolio": "http://chrismiller.club/",
             "email": "camiller.yr@gmail.com",
@@ -204,7 +204,7 @@
             "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
             "github": "https://github.com/krnorris65",
             "linkedIn": "https://www.linkedin.com/in/krnorris65",
-            "portfolio": "kristen-norris.com",
+            "portfolio": "http://www.kristen-norris.com",
             "email": "krnorris65@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -229,8 +229,8 @@
             "reelThemIn": null,
             "bio": "<p>My introduction into professional software development began with my enrollment here  in Cohort 22 at Nashville Software School. A passion for creativity, an appreciation for critical thinking and problem solving, and a desire for a career that would push an inquiring mind to constantly pursue new knowledge, all led me to this path. The lessons learned and skills acquired during my apprenticeship with NSS confirm that I have arrived at the right place, and that as my drive to learn increases, so will my contribution to the craft.</p>",
             "github": "https://github.com/KAPrueved",
-            "linkedIn": "www.linkedin.com/in/kolden-prue-162092157",
-            "portfolio": "www.koldenprue.com",
+            "linkedIn": "https://www.linkedin.com/in/kolden-prue-162092157",
+            "portfolio": "http://www.koldenprue.com",
             "email": "kaprueved@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -243,7 +243,7 @@
             "bio": "<p>Originally in business management for specialty coffee, I always enjoyed incorporating new technologies to help automate day-day tasks. For anyone experienced in retail or café culture, there is no shortage of need to continuously streamline business operations. Through my experience running café's, I was approached by a friend to help build an eCommerce startup with the goal of importing Italian coffee equipment. I helped build the company's webstore in my free time at night while running the café by day utilizing user friendly technologies Squarespace and Shopify. That role ignited my interest in software development to learn and understand how these tools work under the hood and whether I could build some new tools myself.</p><p> After some time self-studying through various online resources, I heard about Nashville Software School which offered a condensed, bootcamp-style software education teaching the primary skills in full-stack development, SCRUM methodology and the importance of continuous education. I attended a few info sessions to learn more about the school, signed up for a month long introduction to web development Jumpstart class, and quickly became hooked.</p><p>I joined Evening Cohort E6 for front-end in June of 2017 and Day Cohort 22 in January of 2018 for back-end. Now I'm looking forward to joining a team in my first role as a Software Developer and furthering my software skillset.</p>",
             "github": "https://github.com/DreRandaci",
             "linkedIn": "https://www.linkedin.com/in/dre-randaci/",
-            "portfolio": "drerandaci.com",
+            "portfolio": "http://www.drerandaci.com",
             "email": "drerandaci@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
@@ -321,7 +321,7 @@
             "bio": "<p><b>Header</b></p>I graduated from the University of North Carolina at Wilmington in 2012 with a BA in Environmental Studies. However I found myself answering my passion to pursue music and moved to Nashville to do so. Suprisingly I found work repairing and building guitars instead of managing water quality, and fell in love with process of building and repairing things for my clients. As I grew older, I found my desire for higher education struck again decided pursuing one of my other passions, technology, would be a great choice. Coming from the craft of guitar building, maitenence, and repair, learning to do the same for software came naturally to me. I enjoyed the intellectual challange software design presented to me and even more so I enjoyed the endless learning oppurtunites presented by the field. I find a great satisfaction in building a well crafted product, and have found a deep appreciation for the attention to detail and constant refinement of ideas necessitated by software design.</p><p> Some of the techs in which I have become advanced: JavaScript, AngularJS, CSS Grid/SASS C#, ASP.NET CORE 2.0, .NET MVC, SQL, NGINX, NPM, and Firebase.</p>",
             "github": "https://github.com/Gward2489",
             "linkedIn": "https://www.linkedin.com/in/garrettwarddev/",
-            "portfolio": "https://www.garrettwarddev.com/#!/splash",
+            "portfolio": "http://www.garrettwarddev.com/#!/splash",
             "email": "garrettwarddev@gmail.com",
             "proImg": "images/proimageHolder.png",
             "funImg": "images/funimageHolder.png"
