@@ -5,8 +5,9 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    /* background: url("../assets/images/bg.jpg") fixed no-repeat; */
-    background-color: lightblue;
+    background: url("/images/binaryDrop.jpg") fixed no-repeat;
+    background-size: 100%;
+    background-color: black;
 }
 
 blockquote{
@@ -35,7 +36,7 @@ blockquote{
 }
 
 #jumbheader{
-    box-shadow: 5px 5px 2px lightgray;
+    box-shadow: 2px 2px 1px lightgray;
     background-color: #39008f!important;
     color: lightgray;
 
