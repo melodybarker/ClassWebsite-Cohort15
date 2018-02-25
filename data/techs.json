@@ -73,8 +73,24 @@
       "image": "images/techs/csharp.png"
     },
     {
-      "name": ".NET",
-      "image": "images/techs/net.png"
+      "name": ".NET Core",
+      "image": "images/techs/dotnetcore.png"
+    },
+    {
+      "name": "Visual Studio",
+      "image": "images/techs/VisualStudio.png"
+    },
+    {
+      "name": ".Net MVC",
+      "image": "images/techs/aspnetMVC.png"
+    },
+    {
+      "name": "ES lint",
+      "image": "images/techs/eslint.png"
+    },
+    {
+      "name": "UglifyJs",
+      "image": "images/techs/uglify.png"
     }
   ]
 }
