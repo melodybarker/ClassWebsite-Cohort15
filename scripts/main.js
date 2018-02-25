@@ -1,3 +1,8 @@
+// initialize the tool-tip plugin for Bootstrap4
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+
 
 $.ajax({
     url: "data/cohort.json"
@@ -72,8 +77,8 @@ function techs(list) {
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
       `<div class="col-sm-3 technologies">
-      <center><img class="techs" src="${item.image}"><br>
-      ${item.name}</center>
+      <center><img class="techs" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"><br>
+      </center>
       </div>`;
 
   });
