@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/eagobert/",
             "portfolio": "http://www.erinagobert.com",
             "email": "eagobert1@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/ErinAgobert.jpg",
+            "funImg": "images/classmates/ErinAgobert_Fun.jpg"
         },
         {
             "id": 2,
@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/kimberly-j-bird/",
             "portfolio": "http://www.kimberlybird.me",
             "email": "kimberly.j.bird@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/KimberlyBird.jpg",
+            "funImg": "images/classmates/KimberlyBird_Fun.jpg"
         },
         {
             "id": 3,
@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/tyler-bowman-b278ab150/",
             "portfolio": null,
             "email": "bowmant388@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/TylerBowman.jpg",
+            "funImg": "images/classmates/TylerBowman_Fun.jpg"
         },
         {
             "id": 4,
@@ -49,8 +49,8 @@
             "linkedIn": null,
             "portfolio": null,
             "email": null,
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/KeithDavis.jpg",
+            "funImg": "images/classmates/KeithDavis_Fun.jpg"
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "linkedIn": "https://www.linkedin.com/in/john-dulaney-032143130/",
             "portfolio": "http://www.johndulaney.net",
             "email": "john.s.dulaney1@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/JohnDulaney.jpg",
+            "funImg": "images/classmates/JohnDulaney_Fun.jpg"
         },
         {
             "id": 6,
@@ -75,8 +75,8 @@
             "linkedIn": "https://www.linkedin.com/in/leah-duvic/",
             "portfolio": "http://www.leahduvic.me",
             "email": "leaheduvic@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/LeahDuvic.jpg",
+            "funImg": "images/classmates/LeahDuvic_Fun.jpg"
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "linkedIn": "https://www.linkedin.com/in/paul-ellis-110a44149/",
             "portfolio": "http://www.developerellis.com",
             "email": "tynesellis@icloud.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/PaulEllis.jpg",
+            "funImg": "images/classmates/PaulEllis_Fun.jpg"
         },
         {
             "id": 8,
@@ -101,8 +101,8 @@
             "linkedIn": "https://www.linkedin.com/in/jason-figueroa-b59a3798/",
             "portfolio": "http://jasonfigueroa.io/",
             "email": "jason.figueroa2@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/JasonFigueroa.jpg",
+            "funImg": "images/classmates/JasonFigueroa_Fun.jpg"
         },
         {
             "id": 9,
@@ -114,8 +114,8 @@
             "linkedIn": "https://www.linkedin.com/in/lissagoforth-softwaredeveloper/",
             "portfolio": null,
             "email": "lissagoforthsoftwaredev@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/LissaGoforth.jpg",
+            "funImg": "images/classmates/LissaGoforth_Fun.jpg"
         },
         {
             "id": 10,
@@ -127,15 +127,15 @@
             "linkedIn": "https://www.linkedin.com/in/kevin-haggerty-ab310b56/",
             "portfolio": "http://www.kevinhaggertydev.com",
             "email": "kghaggerty@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/KevinHaggerty.jpg",
+            "funImg": "images/classmates/KevinHaggerty_Fun.jpg"
         },
         {
             "id": 11,
             "firstName": "Greg",
             "lastName": "Lawrence",
             "reelThemIn": "I love blending creativity with technology... and riding my bicycle.",
-            "bio": "<p>As an Audio Engineer, I was able to combine my love of science and technology with music and lifelong learning. I found great fulfillment in creating new tangible representations of musical performances. Working with countless production teams allowed me to hone my teamwork skills and adapt to different environments to meet challenging deadlines.</p><p>I built my first website in college and was immediately enamored with the power and possibilities. Over the years since I have continued to help out others with small website tweaks and fixes. I became the guy my coworkers and friends would turn to for help, whether I knew how or not. I learned quickly how to leverage Google to find solutions and every problem turned into a rabbit hole of fun learning. While pondering the next steps in my career, software development was a clear choice as it mirrored my drive to dive deep into learning and allowed me to channel creativity through electronic tools.</p><p>When I’m not coding I love to mountain bike, discover new craft beer, tinker with Android development and spend time with my family.</p>",
+            "bio": "<p>As an Audio Engineer, I was able to combine my love of science and technology with music and lifelong learning. I found great fulfillment in creating new tangible representations of musical performances. Working with countless production teams allowed me to hone my teamwork skills and adapt to different environments to meet challenging deadlines.</p><p>I built my first website in college and was immediately enamored with the power and possibilities. Over the years I have continued to help out others with small website tweaks and fixes. I became the guy my coworkers and friends would turn to for help, whether I knew how or not. I learned quickly how to leverage Google to find solutions and every challenge turned into a rabbit hole of fun learning. While pondering the next steps in my career, software development was a clear choice as it mirrored my drive to dive deep into learning and allowed me to continue to channel creativity through electronic tools.</p><p>When I'm not coding I love to mountain bike, discover new craft beer, tinker with Android development and spend time with my family.</p>",
             "github": "https://github.com/chewieez",
             "linkedIn": "https://www.linkedin.com/in/gregmlawrence",
             "portfolio": "http://www.greglawrence.me",
@@ -153,8 +153,8 @@
             "linkedIn": "https://www.linkedin.com/in/krysmathis/",
             "portfolio": "http://krysmathis.com",
             "email": "krysmathis@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/KrysMathis.jpg",
+            "funImg": "images/classmates/KrysMathis_Fun.jpg"
         },
         {
             "id": 13,
@@ -166,8 +166,8 @@
             "linkedIn": "https://www.linkedin.com/in/ryan-mcpherson-6b636549/",
             "portfolio": "http://www.ryanmcpherson.net",
             "email": "mmcpher2@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/RyanMcPherson.jpg",
+            "funImg": "images/classmates/RyanMcPherson_Fun.jpg"
         },
         {
             "id": 14,
@@ -179,8 +179,8 @@
             "linkedIn": "https://www.linkedin.com/in/rmbw74",
             "portfolio": "http://www.raymondjmedrano.com",
             "email": "rmbw74@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/RayMedrano.jpg",
+            "funImg": "images/classmates/RayMedrano_Fun.jpg"
         },
         {
             "id": 15,
@@ -193,8 +193,8 @@
             ,
             "portfolio": "http://chrismiller.club/",
             "email": "camiller.yr@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/ChrisMiller.jpg",
+            "funImg": "images/classmates/ChrisMiller_Fun.jpg"
         },
         {
             "id": 16,
@@ -206,8 +206,8 @@
             "linkedIn": "https://www.linkedin.com/in/krnorris65",
             "portfolio": "http://www.kristen-norris.com",
             "email": "krnorris65@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/KristenNorris.jpg",
+            "funImg": "images/classmates/KristenNorris_Fun.jpg"
         },
         {
             "id": 17,
@@ -219,8 +219,8 @@
             "linkedIn": "https://www.linkedin.com/in/jesse-page/",
             "portfolio": "http://www.thepagepage.net",
             "email": "jesse.page@me.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/JessePage.jpg",
+            "funImg": "images/classmates/JessePage_Fun.jpg"
         },
         {
             "id": 18,
@@ -232,8 +232,8 @@
             "linkedIn": "https://www.linkedin.com/in/kolden-prue-162092157",
             "portfolio": "http://www.koldenprue.com",
             "email": "kaprueved@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/KoldenPrue.jpg",
+            "funImg": "images/classmates/KoldenPrue_Fun.jpg"
         },
         {
             "id": 19,
@@ -245,8 +245,8 @@
             "linkedIn": "https://www.linkedin.com/in/dre-randaci/",
             "portfolio": "http://www.drerandaci.com",
             "email": "drerandaci@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/DreRandaci.jpg",
+            "funImg": "images/classmates/DreRandaci_Fun.jpg"
         },
         {
             "id": 20,
@@ -259,7 +259,7 @@
             "portfolio": null,
             "email": "courtneyseward93@gmail.com",
             "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "funImg": "images/funimageHolder.png_Fun"
         },
         {
             "id": 21,
@@ -271,8 +271,8 @@
             "linkedIn": "https://www.linkedin.com/in/robert-shock-891a48157/",
             "portfolio": null,
             "email": "rob.f.shock@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/RobbieShock.jpg",
+            "funImg": "images/classmates/RobbieShock_Fun.jpg"
         },
         {
             "id": 22,
@@ -284,8 +284,8 @@
             "linkedIn": "https://www.linkedin.com/in/jennasolis/",
             "portfolio": "http://www.jennasolis.com",
             "email": "devjennabsol@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/JennaSolis.jpg",
+            "funImg": "images/classmates/JennaSolis_Fun.jpg"
         },
         {
             "id": 23,
@@ -297,8 +297,8 @@
             "linkedIn": "https://www.linkedin.com/in/chasesteely/",
             "portfolio": "http://chasesteely.com/",
             "email": "chasesteely@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/ChaseSteely.jpg",
+            "funImg": "images/classmates/ChaseSteely_Fun.jpg"
         },
         {
             "id": 24,
@@ -310,8 +310,8 @@
             "linkedIn": "https://www.linkedin.com/in/greg-turner-5007a45/",
             "portfolio": null,
             "email": "gregturner.dev@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/GregTurner.jpg",
+            "funImg": "images/classmates/GregTurner_Fun.jpg"
         },
         {
             "id": 25,
@@ -323,21 +323,21 @@
             "linkedIn": "https://www.linkedin.com/in/garrettwarddev/",
             "portfolio": "http://www.garrettwarddev.com/#!/splash",
             "email": "garrettwarddev@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/GarrettWard.jpg",
+            "funImg": "images/classmates/GarrettWard_Fun.jpg"
         },
         {
             "id": 26,
             "firstName": "Sean",
             "lastName": "Williams",
-            "reelThemIn": "https://www.reddit.com/r/ProgrammerHumor/",
+            "reelThemIn": "<a style='overflow-wrap: break-word;' href='https://www.reddit.com/r/ProgrammerHumor/'>www.reddit.com/r/ProgrammerHumor</a>",
             "bio": "<p>Starting out as a systems engineer with a love of improving processes I went from not knowing any code to designing and developing several applications after seeing a need.  This left me hungry for more and so I enrolled in NSS to refine my skills.  Now with 5 year experience under my belt and the knowledge and tools I've collected thus far, I am ready to tackle bigger, cooler, and more helpful problems in the world.</p>",
             "github": null,
             "linkedIn": null,
             "portfolio": null,
             "email": "dacamor85@gmail.com",
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/SeanWilliams.jpg",
+            "funImg": "images/classmates/SeanWilliams_Fun.jpg"
         },
         {
             "id": 27,
@@ -349,8 +349,8 @@
             "linkedIn": null,
             "portfolio": null,
             "email": null,
-            "proImg": "images/proimageHolder.png",
-            "funImg": "images/funimageHolder.png"
+            "proImg": "images/classmates/MaxWolf.jpg",
+            "funImg": "images/classmates/MaxWolf_Fun.jpg"
         }
     ]
 }
