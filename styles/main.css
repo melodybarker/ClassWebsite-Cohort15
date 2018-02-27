@@ -35,7 +35,7 @@ blockquote{
     color: #39008f;
 }
 
-#jumbheader, {
+#jumbheader{
     box-shadow: 2px 2px 1px lightgray;
     background-color: #39008f!important;
     color: lightgray;
@@ -141,11 +141,6 @@ main {
       transform: scale(1.2);
   }
 
-  .funImage{
-    box-shadow: 2px 2px 2px #39008f;
-    border: 1px solid #39008f;
-    border-radius: 10px;
-  }
 
   .modal-header{
     background-color: lightgray!important;
@@ -156,7 +151,8 @@ main {
   .modal-body img{
     width: 50%;
     height: 50%;
-    padding-bottom: 10px;
+    box-shadow: 3px 3px 5px #39008f;
+    border-radius: 10px;
   }
 
   .backButton{
@@ -231,8 +227,6 @@ button{
     }
        .modal-body img{
         width: 100%;
-        padding-bottom: 10px;
-        padding-right: 10px;
       }
       main {
         margin-bottom: 100px;
