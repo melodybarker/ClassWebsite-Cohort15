@@ -112,7 +112,7 @@
             "bio": null,
             "github": "https://github.com/lissagoforth",
             "linkedIn": "https://www.linkedin.com/in/lissagoforth-softwaredeveloper/",
-            "portfolio": null,
+            "portfolio": "https://lissagoforth.github.io/",
             "email": "lissagoforthsoftwaredev@gmail.com",
             "proImg": "images/classmates/LissaGoforth.jpg",
             "funImg": "images/classmates/LissaGoforth_Fun.jpg"
@@ -304,11 +304,11 @@
             "id": 24,
             "firstName": "Greg",
             "lastName": "Turner",
-            "reelThemIn": null,
-            "bio": null,
+            "reelThemIn": "Software developer... passionately problem-solving to promote productivity.",
+            "bio": "<p>A native Nashvillian, I've been blessed with an incredible wife and four wonderful sons who keep my life abundantly exciting and fullfilling. When I find free time from the demands of family and work, I enjoy travel escapes both near and far with my beautiful wife or escapes of a simpler kind through a good movie or book. I am unabashedly an avid fan of supercross and motocross.</p> <p>Professionally, I love that my career immerses me in a constant state of learning while I am developing software utilizing technologies such as C#, .Net, ASP.NET, SQL, and JavaScript that positively impact both the productivity and the return for the users.</p>",
             "github": "https://github.com/Greg-Turner",
             "linkedIn": "https://www.linkedin.com/in/greg-turner-5007a45/",
-            "portfolio": null,
+            "portfolio": "http://www.greg-turner.com",
             "email": "gregturner.dev@gmail.com",
             "proImg": "images/classmates/GregTurner.jpg",
             "funImg": "images/classmates/GregTurner_Fun.jpg"
