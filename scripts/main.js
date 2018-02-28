@@ -127,7 +127,7 @@ function techs(list) {
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
       `<div class="col-sm-3 technologies">
-         <center><img class="techs" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"><br>
+         <center><a href="${item.link}"><img class="techs" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"></a><br>
          </center>
       </div>`;
   });
