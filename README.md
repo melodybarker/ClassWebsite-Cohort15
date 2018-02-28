@@ -1,7 +1,7 @@
-# Class website
+# Class Website Repo for NSS Cohort 22
 
-Remember we are essentially copying a previous Cohort's structure. I'm adding everyone as a contributor.
+---
+Live: (NSS Cohort 22 Website)[https://nss-day-cohort-22.github.io/Class-Website/]
+---
 
-If you want to contribute Make an issue and assign yourself to it, check to make sure someone is not already working on that feature.
-
-Also if you want to swap from jQuery to Angular im down like a clown, charlie brown. But tbh lazy. Come talk to me if you do.
+This is the repository for Nashville Software School Cohort 22's class made website. Visit the [NSS Official Site](http://nashvillesoftwareschool.com/) for information about the school. 
