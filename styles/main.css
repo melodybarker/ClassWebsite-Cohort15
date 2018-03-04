@@ -131,6 +131,7 @@ main {
       text-align: center;
       display: flex;
       justify-content: space-evenly;
+      -webkit-justify-content: space-evenly;
       margin-bottom: .75rem;
   }
 
