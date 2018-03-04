@@ -6,7 +6,7 @@
       "link": "https://www.javascript.com/"
     },
     {
-      "name": "Angular.js",
+      "name": "AngularJS",
       "image": "images/techs/angularjs.png",
       "link": "https://angularjs.org/"
     },
@@ -76,9 +76,9 @@
       "link": "https://www.sqlite.org/"
     },
     {
-      "name": "MySQL",
-      "image": "images/techs/mysql.png",
-      "link": "https://www.mysql.com/"
+      "name": "SQL Server",
+      "image": "images/techs/sqlserver.png",
+      "link": "https://www.microsoft.com/en-us/sql-server/sql-server-2017"
     },
     {
       "name": "Visual Studio Code",
