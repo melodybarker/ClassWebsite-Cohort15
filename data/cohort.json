@@ -345,10 +345,10 @@
             "lastName": "Wolf",
             "reelThemIn": null,
             "bio": null,
-            "github": null,
-            "linkedIn": null,
-            "portfolio": null,
-            "email": null,
+            "github": "https://www.github.com/maxcwolf",
+            "linkedIn": "https://www.linkedin.com/in/maxcwolf",
+            "portfolio": "https://www.maxwolf.me",
+            "email": "maxcharleswolf@gmail.com",
             "proImg": "images/classmates/MaxWolf.jpg",
             "funImg": "images/classmates/MaxWolf_Fun.jpg"
         }
