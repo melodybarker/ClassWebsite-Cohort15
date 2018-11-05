@@ -91,17 +91,23 @@ main {
     background: white;
 }
 
-.col-sm-3.technologies{
+.col-sm-2.technologies{
     border: none;
     border-radius: none;
     box-shadow: none;
 }
+
 .technos, .words{
     margin-top: -55px;
     background: white;
     padding:20px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
+
+.techs{
+    width: 70px;
+    margin: 20px 0px;
+  }
 
 .words{
     padding:50px;
@@ -142,28 +148,20 @@ main {
       transform: scale(1.2);
   }
 
-
   .modal-header{
     background-color: lightgray!important;
     color: #39008f;
   }
 
-
   .modal-body img{
     width: 50%;
     height: 50%;
-    box-shadow: 3px 3px 5px #39008f;
+    box-shadow: 3px 3px 5px #cacaca;
     border-radius: 10px;
   }
 
   .backButton{
       margin-bottom: 1.5rem;
-  }
-
-
-.techs{
-    width: 80px;
-    margin: 20px;
   }
 
 .navbar.navbar-light.bg-light.footer{
