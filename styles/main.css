@@ -5,7 +5,7 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/binaryDrop.jpg") fixed no-repeat;
+    background: url("../images/background.jpg") fixed no-repeat;
     background-size: 100%;
     background-color: black;
 }
