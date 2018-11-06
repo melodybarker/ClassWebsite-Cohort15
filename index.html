@@ -2,13 +2,13 @@
 <html>
 
 <head>
-    <title>Cohort 22 - Nashville Software School</title>
+    <title>Cohort [number] - Nashville Software School</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+        integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
     <link rel="stylesheet" type="text/css" href="styles/main.css">
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
@@ -23,13 +23,12 @@
                 <img src="images/nsslogo.png" class="d-inline-block align-top logo" alt="Cohort 22 Logo">
             </a>
             <a href="#">
-                <h2 id="cohort22">Cohort 22</h2>
+                <h2 id="cohort22">Cohort [number] | Demo Day [DATE]</h2>
 
             </a>
 
-
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
-                aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+                aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
@@ -40,19 +39,20 @@
                         </a>
                     </li>
                     <li class="nav-item nav-spacing title-font">
-                        <a class="nav-link" href="#developers">Developers</a>
+                        <a class="nav-link" href="#thedevelopers">Developers</a>
                     </li>
                     <li class="nav-item nav-spacing title-font">
-                        <a class="nav-link" href="#techs">Technologies</a>
+                        <a class="nav-link" href="#techsection">Technologies</a>
                     </li>
                     <li class="nav-item nav-spacing title-font">
-                        <a class="nav-link" href="#thanks">Thanks</a>
+                        <a class="nav-link" href="#thankyou">Thanks</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </header>
 
+    <!-- Group photos -->
     <div class="jumbotron jumbotron-fluid">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -66,9 +66,6 @@
                 <div class="carousel-item">
                     <img class="d-block w-100" src="images/CohortGroupPhotos/2018_02_06_C22_Group_0032_T_W.jpg" alt="Second slide">
                 </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="images/CohortGroupPhotos/2018_02_06_C22_Group_0040_T_W.jpg" alt="Third slide">
-                </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -79,21 +76,26 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-        <a name="developers"></a>
+        
+        <a id="thedevelopers"></a>
         <nav id="jumbheader" class="navbar navbar-light bg-light">
             <span class="header-text">
                 <h2 class="title-font">The Developers</h2>
             </span>
         </nav>
     </div>
-
+    
     <main>
+        <!-- developer section -->
         <div class="container">
+                <h3 id="demo-date">Come see us demo on [DATE]!</h3>
             <div id="cohort" class="row">
-
+                <!-- content inserted from the cohort.json file -->
             </div>
         </div>
-        <a name="techs"></a>
+
+        <!-- technology section -->
+        <a id="techsection"></a>
         <div class="jumbotron jumbotron-fluid sm-width">
             <nav id="jumbheader" class="navbar navbar-light bg-light">
                 <span class="header-text">
@@ -103,10 +105,12 @@
         </div>
         <div class="container technos">
             <div id="techs" class="row">
-
+                <!-- content inserted from the techs.json file -->
             </div>
         </div>
-        <a name="thanks"></a>
+
+        <!-- thanks section -->
+        <a id="thankyou"></a>
         <div class="jumbotron jumbotron-fluid sm-width">
             <nav id="jumbheader" class="navbar navbar-light bg-light">
                 <span class="header-text">
@@ -117,52 +121,44 @@
         <div class="container words">
             <div id="thanks">
                 <p>
-                    Thank you seems like such a small word when compared to the school and instructors who have become our heroes. When we began this journey, we didn't quite know what to expect but now that we have come through the fire, we are grateful for everyone who helped us along the way.
-                </p>
-                <h5>To our Instructors:</h5>
-
-                <p>
-                    <b>Steve Brownlee:</b> Thank you for being an example of a life long learner who is always focused on fine
-                    tuning the NSS experience. Our learning and progress is always your number one goal; we hope that our
-                    future success can be your reward.
-                    <br>
-                    <b>Meg Ducharme:</b> Your positivity, ability to explain abstract concepts, and openness with your software
-                    development journey gave us the much needed confidence that we could do this!
-                    <br>
-                    <b>Jared Fuller:</b> Thank you for helping us improve Javascript and Angular skills - it was a pleasure
-                    to always hear you say "how about ..." with a possible solution - we were in good hands with you to troubleshoot!
-                    <br>
-                    <b>Hannah Hall:</b> C# was scary, yet you were calm and able to help us debug the strangest issues; we appreciate
-                    your patience and ability to guide us in the right direction to find the answers.
-                    <br>
-                    <b>Greg Korte:</b> Thank you for helping us navigate the strange waters of C# by listening to our goals
-                    with our code and helping us troubleshoot - you were always able to help us find the magical Stackoverflow
-                    that we had missed that solved our problem.
-                </p>
-                <h5>To the NSS Team:</h5>
-                <p>
-                    Jessica Brawner, Jeremiah Vasquez, Laura Buchanan, Mandy Arola, Kristin McKinney, and Denise Fetz! You guys keep things moving
-                    smoothly and we appreciate all of your hard work!
-                    <br> We are grateful for John Wark and his vision for Nashville Software School. We wouldn't be here without you and we are grateful!
+                    Thank you seems like such a small word when compared to the school and instructors who have become
+                    our heroes. When we began this journey, we didn't quite know what to expect but now that we have
+                    come through the fire, we are grateful for everyone who helped us along the way.
                 </p>
                 <hr>
                 <p>
-                    Finally, a huge thank you to Kristen Norris, John Dulaney, Greg Lawrence, and Garrett Ward for planning and creating this
+                    Thank you to our amazing instructors; we couldn't have done it without you! Steve, Meg, Jared,
+                    Hannah, and Greg.
+                </p>
+                <hr>
+                <p>
+                    Thank you also to the NSS staff! Jessica, Jeremiah, Laura, Mandy, and Kristin. You guys keep things
+                    moving
+                    smoothly and we appreciate all of your hard work!
+                    <br>
+                    <br>
+                    We are grateful for John Wark and his vision for Nashville Software School. We wouldn't be here
+                    without you and we are grateful!
+                </p>
+                <hr>
+                <p>
+                    Finally, a huge thank you to Kristen Norris, John Dulaney, Greg Lawrence, and Garrett Ward for
+                    planning and creating this
                     site -- all while learning our server side technology!
                 </p>
             </div>
         </div>
     </main>
 
-    <nav class="navbar navbar-light bg-light footer">
+    <!-- footer -->
+    <footer class="navbar navbar-light bg-light footer">
         <p>
-            &copy; 2018. Nashville Software School Cohort 22.
+            &copy; 2018. Nashville Software School Cohort [number].
         </p>
-        <a href="https://github.com/nss-day-cohort-22/Class-Website">
-            <p>Site Repo</p>
-        </a>
-    </nav>
+    </footer>
 
+
+    <!-- scripts -->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"

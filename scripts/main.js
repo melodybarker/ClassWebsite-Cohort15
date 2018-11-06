@@ -19,28 +19,28 @@ function cohortMembers(list) {
     if (item.portfolio != null) {
 
       studentContact += `<a href=${item.portfolio} target="_blank">
-      <i class="fas fa-globe fa-3x contactIcons"></i>
+      <i class="fas fa-globe fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a github site then don't display the icon
     if (item.github != null) {
 
       studentContact += `<a href=${item.github} target="_blank">
-      <i class="fab fa-github fa-3x contactIcons"></i>
+      <i class="fab fa-github fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a linkedin site then don't display the icon
     if (item.linkedIn != null) {
 
       studentContact += `<a href=${item.linkedIn} target="_blank">
-      <i class="fab fa-linkedin fa-3x contactIcons"></i>
+      <i class="fab fa-linkedin fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have an email then don't display the icon
     if (item.email != null) {
 
       studentContact += `<a href=mailto:${item.email}>
-              <i class="fas fa-envelope fa-3x contactIcons"></i>
+              <i class="fas fa-envelope fa-2x contactIcons"></i>
             </a>`
     }
     studentContact += `</div>`
@@ -126,7 +126,7 @@ function techs(list) {
   let data = list.techs;
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
-      `<div class="col-sm-3 technologies">
+      `<div class="col-sm-2 technologies">
          <center><a href="${item.link}" target="_blank"><img class="techs" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"></a><br>
          </center>
       </div>`;

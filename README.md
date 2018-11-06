@@ -1,7 +1,9 @@
-# Class Website Repo for NSS Cohort 22
+# Class Website Template Repo
 
----
-Live: (NSS Cohort 22 Website)[https://nss-day-cohort-22.github.io/Class-Website/]
----
+This is a simple template for NSS students to use to create their class website.
 
-This is the repository for Nashville Software School Cohort 22's class made website. Visit the [NSS Official Site](http://nashvillesoftwareschool.com/) for information about the school. 
+1. Clone repo
+1. Update `data/cohort.json` with student information
+1. Update images with your class's photos
+1. Update `data/tech.json` with your cohort's tech stack
+1. Change anything else with styling you'd like!
