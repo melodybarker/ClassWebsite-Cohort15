@@ -179,6 +179,9 @@ main {
 
 #demo-date {
     text-align: center;
+}
+
+#demo-date a {
     color: #238193!important;
 }
 
