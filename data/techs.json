@@ -1,119 +1,142 @@
 {
-  "techs": [
-    {
-      "name": "Javascript",
-      "image": "images/techs/javascript.png",
-      "link": "https://www.javascript.com/"
-    },
-    {
-      "name": "AngularJS",
-      "image": "images/techs/angularjs.png",
-      "link": "https://angularjs.org/"
-    },
-    {
-      "name": "jQuery",
-      "image": "images/techs/jquery.png",
-      "link": "https://jquery.com/"
-    },
-    {
-      "name": "Git",
-      "image": "images/techs/git.png",
-      "link": "https://git-scm.com"
-    },
-    {
-      "name": "Github",
-      "image": "images/techs/github.png",
-      "link": "https://github.com/"
-    },
-    {
-      "name": "Grunt",
-      "image": "images/techs/grunt.png",
-      "link": "https://gruntjs.com/"
-    },
-    {
-      "name": "HTML5",
-      "image": "images/techs/html5.png",
-      "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
-    },
-    {
-      "name": "CSS3",
-      "image": "images/techs/css3.png",
-      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
-    },
-    {
-      "name": "Sass",
-      "image": "images/techs/sass.png",
-      "link": "https://sass-lang.com/"
-    },
-    {
-      "name": "Bootstrap",
-      "image": "images/techs/bootstrap.png",
-      "link": "https://getbootstrap.com/"
-    },
-    {
-      "name": "Browserify",
-      "image": "images/techs/browserify.png",
-      "link": "http://browserify.org/"
-    },
-    {
-      "name": "Firebase",
-      "image": "images/techs/firebase.png",
-      "link": "https://firebase.google.com"
-    },
-    {
-      "name": "Materialize",
-      "image": "images/techs/materialize.png",
-      "link": "http://materializecss.com/"
-    },
-    {
-      "name": "NPM",
-      "image": "images/techs/npm.png",
-      "link": "https://www.npmjs.com/"
-    },
-    {
-      "name": "SQLite3",
-      "image": "images/techs/sqlite.png",
-      "link": "https://www.sqlite.org/"
-    },
-    {
-      "name": "SQL Server",
-      "image": "images/techs/sqlserver.png",
-      "link": "https://www.microsoft.com/en-us/sql-server/sql-server-2017"
-    },
-    {
-      "name": "Visual Studio Code",
-      "image": "images/techs/vsc.png",
-      "link": "https://code.visualstudio.com/"
-    },
-    {
-      "name": "C#",
-      "image": "images/techs/csharp.png",
-      "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
-    },
-    {
-      "name": ".NET Core",
-      "image": "images/techs/dotnetcore.png",
-      "link": "https://www.microsoft.com/net/"
-    },
-    {
-      "name": "Visual Studio",
-      "image": "images/techs/VisualStudio.png",
-      "link": "https://www.visualstudio.com/vs/"
-    },
-    {
-      "name": ".Net MVC",
-      "image": "images/techs/aspnetMVC.png",
-      "link": "https://www.asp.net/mvc"
-    },
-    {
-      "name": "ES lint",
-      "image": "images/techs/eslint.png",
-      "link": "https://eslint.org/"
-    },
-    {
-      "name": "UglifyJs",
-      "image": "images/techs/uglify.png",
-      "link": "https://www.npmjs.com/package/uglifyjs"
-    }
-  ]
+    "techs": [
+        {
+            "id": 1,
+            "name": "Javascript",
+            "image": "images/techs/javascript.png",
+            "link": "https://www.javascript.com/"
+        },
+        {
+            "id": 2,
+            "name": "AngularJS",
+            "image": "images/techs/angularjs.png",
+            "link": "https://angularjs.org/"
+        },
+        {
+            "id": 3,
+            "name": "jQuery",
+            "image": "images/techs/jquery.png",
+            "link": "https://jquery.com/"
+        },
+        {
+            "id": 4,
+            "name": "Git",
+            "image": "images/techs/git.png",
+            "link": "https://git-scm.com"
+        },
+        {
+            "id": 5,
+            "name": "Github",
+            "image": "images/techs/github.png",
+            "link": "https://github.com/"
+        },
+        {
+            "id": 6,
+            "name": "Grunt",
+            "image": "images/techs/grunt.png",
+            "link": "https://gruntjs.com/"
+        },
+        {
+            "id": 7,
+            "name": "HTML5",
+            "image": "images/techs/html5.png",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
+        },
+        {
+            "id": 8,
+            "name": "CSS3",
+            "image": "images/techs/css3.png",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
+        },
+        {
+            "id": 9,
+            "name": "Sass",
+            "image": "images/techs/sass.png",
+            "link": "https://sass-lang.com/"
+        },
+        {
+            "id": 10,
+            "name": "Bootstrap",
+            "image": "images/techs/bootstrap.png",
+            "link": "https://getbootstrap.com/"
+        },
+        {
+            "id": 11,
+            "name": "Browserify",
+            "image": "images/techs/browserify.png",
+            "link": "http://browserify.org/"
+        },
+        {
+            "id": 12,
+            "name": "Firebase",
+            "image": "images/techs/firebase.png",
+            "link": "https://firebase.google.com"
+        },
+        {
+            "id": 13,
+            "name": "Materialize",
+            "image": "images/techs/materialize.png",
+            "link": "http://materializecss.com/"
+        },
+        {
+            "id": 14,
+            "name": "NPM",
+            "image": "images/techs/npm.png",
+            "link": "https://www.npmjs.com/"
+        },
+        {
+            "id": 15,
+            "name": "SQLite3",
+            "image": "images/techs/sqlite.png",
+            "link": "https://www.sqlite.org/"
+        },
+        {
+            "id": 16,
+            "name": "SQL Server",
+            "image": "images/techs/sqlserver.png",
+            "link": "https://www.microsoft.com/en-us/sql-server/sql-server-2017"
+        },
+        {
+            "id": 17,
+            "name": "Visual Studio Code",
+            "image": "images/techs/vsc.png",
+            "link": "https://code.visualstudio.com/"
+        },
+        {
+            "id": 18,
+            "name": "C#",
+            "image": "images/techs/csharp.png",
+            "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+        },
+        {
+            "id": 19,
+            "name": ".NET Core",
+            "image": "images/techs/dotnetcore.png",
+            "link": "https://www.microsoft.com/net/"
+        },
+        {
+            "id": 20,
+            "name": "Visual Studio",
+            "image": "images/techs/VisualStudio.png",
+            "link": "https://www.visualstudio.com/vs/"
+        },
+        {
+            "id": 21,
+            "name": ".Net MVC",
+            "image": "images/techs/aspnetMVC.png",
+            "link": "https://www.asp.net/mvc"
+        },
+        {
+            "id": 22,
+            "name": "ES lint",
+            "image": "images/techs/eslint.png",
+            "link": "https://eslint.org/"
+        },
+        {
+            "id": 23,
+            "name": "UglifyJs",
+            "image": "images/techs/uglify.png",
+            "link": "https://www.npmjs.com/package/uglifyjs"
+        }
+    ]
 }
