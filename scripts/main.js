@@ -104,16 +104,7 @@ function cohortMembers(list) {
 
   });
 };
-//checks to see if url string is empty, if not, creates specified image
-function createLink(urlString, img, mail) {
-  let link = urlString !== '' ? `< a href = "${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->';
-  return link
-};
 
-function createMailto(urlString, img) {
-  let link = urlString !== '' ? `< a href = "mailto:${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->'
-  return link
-}
 
 $.ajax({
   url: "data/techs.json"
