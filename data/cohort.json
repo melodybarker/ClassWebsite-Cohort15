@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/tyler-bowman-b278ab150/",
             "portfolio": "http://www.bowty.tech",
             "email": "bowmant388@gmail.com",
-            "proImg": "images/classmates/TylerBowman.jpg",
-            "funImg": "images/classmates/TylerBowman_Fun.jpg"
+            "proImg": "TylerBowman.jpg",
+            "funImg": "TylerBowman_Fun.jpg"
         },
         {
             "id": 7,
@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/paul-ellis-110a44149/",
             "portfolio": "http://www.developerellis.com",
             "email": "tynesellis@icloud.com",
-            "proImg": "images/classmates/PaulEllis.jpg",
-            "funImg": "images/classmates/PaulEllis_Fun.jpg"
+            "proImg": "PaulEllis.jpg",
+            "funImg": "PaulEllis_Fun.jpg"
         },
         {
             "id": 17,
@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/jesse-page/",
             "portfolio": "http://www.thepagepage.net",
             "email": "jesse.page@me.com",
-            "proImg": "images/classmates/JessePage.jpg",
-            "funImg": "images/classmates/JessePage_Fun.jpg"
+            "proImg": "JessePage.jpg",
+            "funImg": "JessePage_Fun.jpg"
         },
         {
             "id": 9,
@@ -49,8 +49,8 @@
             "linkedIn": "https://www.linkedin.com/in/lissagoforth-softwaredeveloper/",
             "portfolio": "https://lissagoforth.github.io/",
             "email": "lissagoforthsoftwaredev@gmail.com",
-            "proImg": "images/classmates/LissaGoforth.jpg",
-            "funImg": "images/classmates/LissaGoforth_Fun.jpg"
+            "proImg": "LissaGoforth.jpg",
+            "funImg": "LissaGoforth_Fun.jpg"
         },
         {
             "id": 11,
@@ -62,8 +62,8 @@
             "linkedIn": "https://www.linkedin.com/in/gregmlawrence",
             "portfolio": "https://www.greglawrence.me",
             "email": "gregaudio@gmail.com",
-            "proImg": "images/classmates/GregLawrence.jpg",
-            "funImg": "images/classmates/GregLawrence_Fun.jpg"
+            "proImg": "GregLawrence.jpg",
+            "funImg": "GregLawrence_Fun.jpg"
         },
         {
             "id": 16,
@@ -75,8 +75,8 @@
             "linkedIn": "https://www.linkedin.com/in/krnorris65",
             "portfolio": "http://www.kristen-norris.com",
             "email": "krnorris65@gmail.com",
-            "proImg": "images/classmates/KristenNorris.jpg",
-            "funImg": "images/classmates/KristenNorris_Fun.jpg"
+            "proImg": "KristenNorris.jpg",
+            "funImg": "KristenNorris_Fun.jpg"
         }
     ]
 }

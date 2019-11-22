@@ -46,7 +46,7 @@ function cohortMembers(list) {
     studentContact += `</div>`
 
     let studentInfo = `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
+          <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
     //if student didn't provide a reelthemin quote then nothing is displayed
@@ -76,7 +76,7 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="${item.funImg}" /></center><br>
+            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
 
             `
 
@@ -104,16 +104,7 @@ function cohortMembers(list) {
 
   });
 };
-//checks to see if url string is empty, if not, creates specified image
-function createLink(urlString, img, mail) {
-  let link = urlString !== '' ? `< a href = "${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->';
-  return link
-};
 
-function createMailto(urlString, img) {
-  let link = urlString !== '' ? `< a href = "mailto:${urlString}" target = "_blank" > <img src="/images/${img}.png"></a>` : '<!-- -->'
-  return link
-}
 
 $.ajax({
   url: "data/techs.json"
@@ -127,7 +118,7 @@ function techs(list) {
   data.forEach(function (item) {
     document.getElementById("techs").innerHTML +=
       `<div class="col-sm-2 technologies">
-         <center><a href="${item.link}" target="_blank"><img class="techs" src="${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"></a><br>
+         <center><a href="${item.link}" target="_blank"><img class="techs" src="images/techs/${item.image}" alt="${item.name}" data-toggle="tooltip" data-placement="top" title="${item.name}"></a><br>
          </center>
       </div>`;
   });
