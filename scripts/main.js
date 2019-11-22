@@ -76,7 +76,7 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="${item.funImg}" /></center><br>
+            <center><img src="${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
 
             `
 
