@@ -4,12 +4,11 @@
             "id": 1,
             "firstName": "Melody",
             "lastName": "Barker",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
+            "reelThemIn": "<p>A SQL query goes into a bar, walks up to two tables and asks: “Can I join you?\"”</p>",
+            "github": "https://github.com/melodybarker",
+            "linkedIn": "https://www.linkedin.com/in/melodybarker/",
+            "portfolio": "",
+            "email": "melodybarker1993@gmail.com",
             "proImg": "add headshot image",
             "funImg": "2nd photo"
         },
@@ -27,7 +26,7 @@
             "funImg": "2nd photo, silly?"
         },
         {
-            "id": 1,
+            "id": 3,
             "firstName": "Jon",
             "lastName": "Brooks",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -40,7 +39,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 4,
             "firstName": "Colin",
             "lastName": "Chevalier",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -53,7 +52,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 5,
             "firstName": "Cody",
             "lastName": "Clark",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -66,7 +65,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 6,
             "firstName": "Tingting",
             "lastName": "Duan",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -79,7 +78,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 7,
             "firstName": "Chelsea",
             "lastName": "Elrod",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -92,7 +91,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 8,
             "firstName": "Nick",
             "lastName": "Galusha",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -105,7 +104,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 9,
             "firstName": "Brittany",
             "lastName": "Garrett",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -118,7 +117,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 10,
             "firstName": "Jackie",
             "lastName": "Gregory",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -131,7 +130,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 11,
             "firstName": "Stephanie",
             "lastName": "Hamilton",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -144,7 +143,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 12,
             "firstName": "Tatiana",
             "lastName": "Johnson",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -157,7 +156,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 13,
             "firstName": "Blake",
             "lastName": "McAdams",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -170,7 +169,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 14,
             "firstName": "Candace",
             "lastName": "Ntembo",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -183,7 +182,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 15,
             "firstName": "Eugene",
             "lastName": "Terry",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -196,7 +195,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 16,
             "firstName": "Emma",
             "lastName": "Vogelmeier",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
@@ -209,7 +208,7 @@
             "funImg": "2nd photo"
         },
         {
-            "id": 1,
+            "id": 17,
             "firstName": "Joyce",
             "lastName": "Zhang",
             "reelThemIn": "<p>software jokes or insp quote\"</p>",
