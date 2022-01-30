@@ -204,8 +204,8 @@
             "linkedIn": "https://www.linkedin.com/in/emma-vogelmeier/",
             "portfolio": "https://www.emmavogelmeier.com/",
             "email": "emmameiervogel@gmail.com",
-            "proImg": "../images/classmates/EmmaVogelmeier.jpg",
-            "funImg": "../images/classmates/EmmaVogelmeier_fun.jpg"
+            "proImg": "EmmaVogelmeier.jpg",
+            "funImg": "EmmaVogelmeier_fun.jpg"
         },
         {
             "id": 17,
