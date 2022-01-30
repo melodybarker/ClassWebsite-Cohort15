@@ -198,14 +198,14 @@
             "id": 16,
             "firstName": "Emma",
             "lastName": "Vogelmeier",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>'This is all you need in life: a computer, a camera, and a cat.' - Agnes Varda</p>",
+            "bio": "<p>I worked in film and television production before becoming a software developer. I love movies, hiking, vintage clothing, and writing poetry in my free time!</p>",
+            "github": "https://github.com/emmameiervogel",
+            "linkedIn": "https://www.linkedin.com/in/emma-vogelmeier/",
+            "portfolio": "https://www.emmavogelmeier.com/",
+            "email": "emmameiervogel@gmail.com",
+            "proImg": "../images/classmates/EmmaVogelmeier.jpg",
+            "funImg": "../images/classmates/EmmaVogelmeier_fun.jpg"
         },
         {
             "id": 17,
