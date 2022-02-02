@@ -185,13 +185,13 @@
             "id": 15,
             "firstName": "Eugene",
             "lastName": "Terry",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
+            "reelThemIn": "<p>\"Never argue with an idiot. They will drag you down and beat you with experience. -Mark Twain\"</p>",
             "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
+            "github": "https://github.com/EugeneTerry",
+            "linkedIn": "https://www.linkedin.com/in/eugene-terry/",
             "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
+            "email": "eugene@eugeneterry.dev",
+            "proImg": "EugeneTerry.jpg",
             "funImg": "2nd photo"
         },
         {
