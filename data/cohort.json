@@ -68,14 +68,14 @@
             "id": 6,
             "firstName": "Tingting",
             "lastName": "Duan",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>I am passionate about building full stack data science applications for the tech & travel industry.</p>",
+            "bio": "<p>I am passionate about building full stack data science applications for the tech & travel industry.</p>",
+            "github": "https://github.com/Tingting0618",
+            "linkedIn": "https://www.linkedin.com/in/tingting-duan/",
+            "portfolio": "https://tingting0618.github.io/",
+            "email": "tingtingduanpy@gmail.com",
+            "proImg": "Tingting.png",
+            "funImg": "Tingting_Fun.jpeg"
         },
         {
             "id": 7,
