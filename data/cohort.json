@@ -211,14 +211,14 @@
             "id": 17,
             "firstName": "Joyce",
             "lastName": "Zhang",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>while(!(succeed = try()));</p>",
+            "bio": "<p>My favorite part of coding isn't front-end or back-end, is connecting the two!</p>",
+            "github": "https://github.com/JoyceRuobingZhang",
+            "linkedIn": "https://www.linkedin.com/in/joyce-ruobing-zhang-2313b6212/",
+            "portfolio": "https://joyceruobingzhang.github.io/joycezhang.github.io/",
+            "email": "joyceruobingzhang@gmail.com",
+            "proImg": "JoyceZhang.png",
+            "funImg": "JoyceZhang_Fun.JPG"
         }
     ]
 }
