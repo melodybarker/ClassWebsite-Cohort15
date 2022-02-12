@@ -81,14 +81,14 @@
             "id": 7,
             "firstName": "Chelsea",
             "lastName": "Elrod",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
+            "reelThemIn": "<p>Trust yourself, you know more than you think you do. -Benjamin Spock</p>",
+            "bio": "<p>I am constantly eager to grow and learn each day; looking forward to the future as a full-stack developer!</p>",
+            "github": "https://github.com/chelsealelrod",
+            "linkedIn": "https://www.linkedin.com/in/chelsea-elrod/",
             "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "email": "celrod0724@gmail.com",
+            "proImg": "ChelseaElrod.png",
+            "funImg": "ChelseaElrod_Fun.png"
         },
         {
             "id": 8,
