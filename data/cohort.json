@@ -107,14 +107,14 @@
             "id": 9,
             "firstName": "Brittany",
             "lastName": "Garrett",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
+            "reelThemIn": "<p>Question: How do you comfort a JavaScript bug? Answer: You CONSOLE it!</p>",
+            "bio": "<p>I design, code, and implement interactive applications while focusing on the fluid functionality of the user's experience.</p>",
+            "github": "https://github.com/bmgdevelopment",
+            "linkedIn": "https://www.linkedin.com/in/brittanymgarrett/",
             "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "email": "brittanymgarrett@gmail.com",
+            "proImg": "BrittanyGarrett.jpg",
+            "funImg": "BrittanyGarrettFun.jpg"
         },
         {
             "id": 10,
