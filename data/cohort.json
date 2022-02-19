@@ -55,14 +55,14 @@
             "id": 5,
             "firstName": "Cody",
             "lastName": "Clark",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>“It is possible to commit no errors and still lose. That is not a weakness. That is life.” <br>–Captain Jean-Luc Picard</p>",
+            "bio": "<p>I have a background in data analysis and fraud prevention. I'm excited to grow as a software developer!</p>",
+            "github": "https://github.com/cod-y-clark",
+            "linkedIn": "https://linkedin.com/in/cod-y-clark",
+            "portfolio": "Coming soon...",
+            "email": "cody66clark@gmail.com",
+            "proImg": "CodyClark.jpeg",
+            "funImg": "CodyClark_fun.jpg"
         },
         {
             "id": 6,
