@@ -134,14 +134,14 @@
             "id": 11,
             "firstName": "Stephanie",
             "lastName": "Hamilton",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>If at first you don't succeed, call it version 1.0.\"</p>",
+            "bio": "<p>Designer-turned-developer with a passion for problem solving and accessibility. When I'm not coding, I can be found biking, kayaking or planning my next trip. </p>",
+            "github": "https://github.com/hamiltons621",
+            "linkedIn": "https://www.linkedin.com/in/stephanie--hamilton/",
+            "portfolio": "Coming soon...",
+            "email": "devsteph.nash@gmail.com",
+            "proImg": "StephanieHamilton.jpg",
+            "funImg": "StephanieHamilton_Fun.jpg"
         },
         {
             "id": 12,
