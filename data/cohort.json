@@ -62,7 +62,7 @@
             "portfolio": "Coming soon...",
             "email": "cody66clark@gmail.com",
             "proImg": "CodyClark.jpeg",
-            "funImg": "CodyClark_fun.jpg"
+            "funImg": "CodyClark_Fun.jpg"
         },
         {
             "id": 6,
@@ -114,7 +114,7 @@
             "portfolio": "add portfolio website",
             "email": "brittanymgarrett@gmail.com",
             "proImg": "BrittanyGarrett.jpg",
-            "funImg": "BrittanyGarrettFun.jpg"
+            "funImg": "BrittanyGarrettFun.JPG"
         },
         {
             "id": 10,
@@ -204,7 +204,7 @@
             "portfolio": "https://www.emmavogelmeier.com/",
             "email": "emmameiervogel@gmail.com",
             "proImg": "EmmaVogelmeier.jpg",
-            "funImg": "EmmaVogelmeier_fun.jpg"
+            "funImg": "EmmaVogelmeier_Fun.jpg"
         },
         {
             "id": 17,
@@ -216,7 +216,7 @@
             "linkedIn": "https://www.linkedin.com/in/joyce-ruobing-zhang-2313b6212/",
             "portfolio": "https://joyceruobingzhang.github.io/joycezhang.github.io/",
             "email": "joyceruobingzhang@gmail.com",
-            "proImg": "JoyceZhang.png",
+            "proImg": "JoyceZhang.PNG",
             "funImg": "JoyceZhang_Fun.JPG"
         }
     ]
