@@ -4,27 +4,27 @@
             "id": 1,
             "firstName": "Melody",
             "lastName": "Barker",
-            "reelThemIn": "<p>A SQL query goes into a bar, walks up to two tables and asks: “Can I join you?\"”</p>",
-            "boi": "<p>Things I enjoy are traveling, trying new foods, music, sudoku, and coding!</p>",
+            "reelThemIn": "<p>“It’s not a bug – it’s an undocumented feature.”</p>",
+            "bio": "<p>Things I enjoy are traveling, trying new foods, music, sudoku, and coding!</p>",
             "github": "https://github.com/melodybarker",
             "linkedIn": "https://www.linkedin.com/in/melodybarker/",
             "portfolio": "",
             "email": "melodybarker1993@gmail.com",
             "proImg": "MelBarker.jpg",
-            "funImg": "2nd photo"
+            "funImg": "MelBarker2.jpg"
         },
         {
             "id": 2,
             "firstName": "Samuel",
             "lastName": "Barker",
-            "reelThemIn": "<p>!false --It’s funny because it’s true.</p>",
+            "reelThemIn": "<p>!false – It’s funny because it’s true.</p>",
             "bio": "<p>My Name is Sam Barker and I am an outdoor enthusiast and enjoy spending time with friends and family.</p>",
             "github": "https://github.com/Barker398",
             "linkedIn": "http://www.linkedin.com/in/barkersam",
             "portfolio": "add portfolio website",
             "email": "barkersam29@yahoo.com",
             "proImg": "SamBarker.jpg",
-            "funImg": "2nd photo, silly?"
+            "funImg": "SamBarker2.jpg"
         },
         {
             "id": 3,
