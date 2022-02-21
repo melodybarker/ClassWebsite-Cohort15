@@ -29,14 +29,14 @@
             "id": 3,
             "firstName": "Jon",
             "lastName": "Brooks",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>“Programming isn't about what you know; it's about what you can figure out.”-Chris Pine\"</p>",
+            "bio": "<p>I'm a Mortgage Loan Specialist excited to branch out into the software dev world!</p>",
+            "github": "https://github.com/Big-Red-Jon",
+            "linkedIn": "https://www.linkedin.com/in/jonathan-brooks-b277a6114/",
+            "portfolio": "Coming Soon...",
+            "email": "Jonwaybrooks@gmail.com",
+            "proImg": "JonBrooks.jpeg",
+            "funImg": "JonBrooks_Fun.jpg"
         },
         {
             "id": 4,
