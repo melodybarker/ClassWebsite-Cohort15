@@ -5,7 +5,7 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("../images/e15background.jpg") fixed no-repeat;
     background-size: 100%;
     background-color: black;
 }
@@ -23,6 +23,7 @@ blockquote{
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
     background: white !important;
+    opacity: 70%;
 }
 .navbar-brand{
     display: flex;
@@ -31,7 +32,7 @@ blockquote{
   margin-right: 2em;
 }
 
-#cohort22{
+#cohort15{
     display: inline-block;
     color: #238193;
 }
@@ -182,7 +183,11 @@ main {
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: #5bd4ec!important;
+}
+
+.text-center {
+    color:rgb(0, 0, 0)
 }
 
 button{
