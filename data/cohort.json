@@ -43,14 +43,14 @@
             "id": 4,
             "firstName": "Colin",
             "lastName": "Chevalier",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
-            "portfolio": "add portfolio website",
-            "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "reelThemIn": "<p>“Outside of a dog, a book is man's best friend. That's because inside a dog it's too dark to read.”<br>-Groucho Marx</p>",
+            "bio": "<p>Native Nashvillian software developer and musician!</p>",
+            "github": "https://github.com/ColinFChevalier",
+            "linkedIn": "https://www.linkedin.com/in/colin-chevalier/",
+            "portfolio": "Site under construction! Beep Boop!",
+            "email": "colinfchevalier@gmail.com",
+            "proImg": "Colin_Chevalier.jpg",
+            "funImg": "Colin_Chevalier_Fun.jpg"
         },
         {
             "id": 5,
