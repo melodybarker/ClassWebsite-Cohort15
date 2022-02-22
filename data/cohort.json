@@ -95,14 +95,14 @@
             "id": 8,
             "firstName": "Nick",
             "lastName": "Galusha",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
-            "github": "add your github link",
-            "linkedIn": "add your linkedin link",
+            "reelThemIn": "<p>I need coffee to (function).</p>",
+            "bio": "<p>I love music. I like react. You'll almost never see me coding without my dogs as my shadow (whether I like it or not).</p>",
+            "github": "https://github.com/Ovation",
+            "linkedIn": "https://www.linkedin.com/in/nicholasgalusha/",
             "portfolio": "add portfolio website",
             "email": "add your email",
-            "proImg": "add headshot image",
-            "funImg": "2nd photo"
+            "proImg": "Nick.jpeg",
+            "funImg": "Nick2.jpg"
         },
         {
             "id": 9,
