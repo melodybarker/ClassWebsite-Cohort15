@@ -120,8 +120,9 @@
             "id": 10,
             "firstName": "Jackie",
             "lastName": "Gregory",
-            "reelThemIn": "<p>software jokes or insp quote\"</p>",
-            "bio": "<p>write a fun fact about you!</p>",
+            "reelThemIn": "<p>And always, there was the magic of learning things.
+            ― Betty Smith, A Tree Grows in Brooklyn\"</p>",
+            "bio": "<p>As a former teacher and libarian, I really enjoy learning, and I became interested in tech while teaching students simple coding.</p>",
             "github": "https://github.com/jackiebgregory",
             "linkedIn": "https://www.linkedin.com/in/jacqueline-b-gregory/",
             "portfolio": "add portfolio website",
