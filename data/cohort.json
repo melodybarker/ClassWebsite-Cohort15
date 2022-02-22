@@ -198,7 +198,7 @@
             "id": 16,
             "firstName": "Emma",
             "lastName": "Vogelmeier",
-            "reelThemIn": "<p>'This is all you need in life: a computer, a camera, and a cat.' - Agnes Varda</p>",
+            "reelThemIn": "<p>“This is all you need in life: a computer, a camera, and a cat.” <br> - Agnès Varda</p>",
             "bio": "<p>I worked in film and television production before becoming a software developer. I love movies, hiking, vintage clothing, and writing poetry in my free time!</p>",
             "github": "https://github.com/emmameiervogel",
             "linkedIn": "https://www.linkedin.com/in/emma-vogelmeier/",
